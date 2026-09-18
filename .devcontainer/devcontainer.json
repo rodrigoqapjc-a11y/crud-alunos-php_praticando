@@ -1,0 +1,6 @@
+{
+    "name": "PHP CRUD Dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "forwardPorts": [8000, 3306]
+}
